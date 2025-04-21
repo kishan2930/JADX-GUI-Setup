@@ -26,7 +26,7 @@ This repository provides a bash script to **install or uninstall [JADX](https://
 
 ## 📌 Requirements
 
-- Ubuntu 18.04 / 20.04 / 22.04
+- Ubuntu 18.04 / 20.04 / 22.04 & Latest
 - `sudo` privileges
 - `curl`, `unzip`, `zip`
 - Java installed
